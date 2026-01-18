@@ -7,7 +7,7 @@ Each project is hosted in its own GitHub repository with detailed documentation 
 
 ---
 
-## 🔹 Featured Projects
+##  Featured Projects
 
 ###  Solar Potential Prediction & Analytics Dashboard
 **Description:**  
