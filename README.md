@@ -35,7 +35,7 @@ An interactive analytics dashboard that analyzes customer credit behavior and ri
 - Interactive Streamlit interface
 
 🔗 **GitHub Repository:**  
-https://github.com/varudhinii/businessanalytics
+https://github.com/varudhinii/sales-business-analytics
 
 ---
 
@@ -50,7 +50,7 @@ A machine learning–based classification system that predicts the likelihood of
 - Focus on healthcare analytics
 
 🔗 **GitHub Repository:**  
-https://github.com/varudhinii/heart-prediction
+https://github.com/varudhinii/heartdiseaseprediction
 
 
 ##  Technical Skills Demonstrated
