@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 AIML &amp; Data Science Project Portfolio
 # Varudhini N – Project Portfolio
 
@@ -63,9 +63,23 @@ https://github.com/varudhinii/heartdiseaseprediction
 
 ---
 
+###  Employee Attrition Analysis (Internship Project)
+**Description:**  
+An exploratory data analysis project completed during an internship, focusing on understanding employee attrition patterns at Green Destinations. The analysis examines how factors such as age, income, years at the company, overtime, and work-life balance influence employee turnover and provides data-driven insights for HR decision-making.
+
+**Key Highlights:**
+- Real-world HR analytics use case
+- Exploratory Data Analysis (EDA) using Python
+- Attrition trend analysis across demographic and job-related factors
+- Actionable insights for employee retention strategies
+
+🔗 **GitHub Repository:**  
+https://github.com/varudhinii/employee-attrition-analysis-
+
 ##  Academic & Career Focus
 - Artificial Intelligence
 - Machine Learning
+- Data Science
 - Data Analytics
 - Applied ML for real-world problem solving
 
